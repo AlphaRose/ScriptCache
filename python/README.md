@@ -31,7 +31,7 @@ To install a dependency manually:
 pip install <package-name>
 ```
 
-## Usage
+## 🧑‍💻 Usage
 
 Most scripts can be run directly from the command line:
 
@@ -54,7 +54,7 @@ Refer to each script’s comments or README for specific instructions.
 - Windows-specific scripts may not function on macOS or Linux.
 - Administrative privileges may be required for certain scripts.
 
-# License
+## 📜 License
 Unless otherwise stated, scripts in this folder are intended for personal and educational use.
 
 > Built and maintained by Ebony Rose Martin https://thatone.dev
