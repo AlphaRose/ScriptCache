@@ -8,10 +8,10 @@ def shorten_url_with_tinyurl(long_url):
     else:
         return None
 
-long_url = r"INSERT YOUR LONG URL HERE"
+long_url = input("Enter the URL you want to shorten: ").strip()
 short_url = shorten_url_with_tinyurl(long_url)
 
 if short_url:
-    print(f'Shortened URL: {short_url}')
+    print(f"Shortened URL: {short_url}")
 else:
-    print('Error shortening URL')
+    print("Error shortening URL")
