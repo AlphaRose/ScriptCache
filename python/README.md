@@ -8,7 +8,7 @@ The scripts in this directory range from small command-line tools to system util
 
 ---
 
-## 📂 Structure
+## Structure
 
 Each script typically includes:
 - Clear function definitions
@@ -20,7 +20,7 @@ Each script typically includes:
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 - **Python 3.8+** (recommended)
 - Dependencies vary by script and are usually listed at the top of the file or in an accompanying README
@@ -31,7 +31,7 @@ To install a dependency manually:
 pip install <package-name>
 ```
 
-## 🧑‍💻 Usage
+## Usage
 
 Most scripts can be run directly from the command line:
 
@@ -54,7 +54,7 @@ Refer to each script’s comments or README for specific instructions.
 - Windows-specific scripts may not function on macOS or Linux.
 - Administrative privileges may be required for certain scripts.
 
-## 📜 License
+## License
 Unless otherwise stated, scripts in this folder are intended for personal and educational use.
 
 > Built and maintained by Ebony Rose Martin https://thatone.dev
