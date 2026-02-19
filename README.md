@@ -1,4 +1,4 @@
-# 📄 Script Cache
+# Script Cache
 
 A curated collection of small, practical scripts I actually use.
 
@@ -7,7 +7,7 @@ Just utilities that solve real problems.
 
 ------------------------------------------------------------
 
-## ⚙️ WHAT THIS IS
+## WHAT THIS IS
 
 scriptcache is my personal script library — a growing cache of helpers,
 tools, and one-off scripts that make systems easier to work with.
@@ -21,7 +21,7 @@ If you find something useful here, feel free to steal it.
 
 ------------------------------------------------------------
 
-## 🔍 WHAT YOU’LL FIND
+## WHAT YOU’LL FIND
 
 Depending on the folder, you may find scripts for:
 
@@ -40,7 +40,7 @@ Languages may include:
 
 ------------------------------------------------------------
 
-## 📂 STRUCTURE
+## STRUCTURE
 
 scriptcache/
 - python/
@@ -56,7 +56,7 @@ If a script needs special setup, it will say so at the top.
 
 ------------------------------------------------------------
 
-## 🧠 PHILOSOPHY
+## PHILOSOPHY
 
 - boring > clever
 - readable > short
@@ -66,7 +66,7 @@ These scripts exist to work, not to impress.
 
 ------------------------------------------------------------
 
-## 🧑‍💻 USAGE
+## USAGE
 
 There’s no install process.
 
@@ -77,7 +77,7 @@ git clone https://github.com/AlphaRose/scriptcache.git
 
 ------------------------------------------------------------
 
-## ⚠️ STABILITY & GUARANTEES
+## STABILITY & GUARANTEES
 
 - Scripts are provided as-is
 - Some are rough around the edges
@@ -87,7 +87,7 @@ If you spot a bug or have an improvement, open an issue or PR.
 
 ------------------------------------------------------------
 
-## 📜 LICENSE
+## LICENSE
 
 MIT — use it, fork it, break it, fix it.
 
